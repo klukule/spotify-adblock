@@ -1,0 +1,6 @@
+c:\users\klukule\documents\visual studio 2015\Projects\SpotifyCrack\SpotifyCrack\bin\Debug\SpotifyCrack.exe.config
+c:\users\klukule\documents\visual studio 2015\Projects\SpotifyCrack\SpotifyCrack\bin\Debug\SpotifyCrack.exe
+c:\users\klukule\documents\visual studio 2015\Projects\SpotifyCrack\SpotifyCrack\bin\Debug\SpotifyCrack.pdb
+c:\users\klukule\documents\visual studio 2015\Projects\SpotifyCrack\SpotifyCrack\obj\Debug\SpotifyCrack.csprojResolveAssemblyReference.cache
+c:\users\klukule\documents\visual studio 2015\Projects\SpotifyCrack\SpotifyCrack\obj\Debug\SpotifyCrack.exe
+c:\users\klukule\documents\visual studio 2015\Projects\SpotifyCrack\SpotifyCrack\obj\Debug\SpotifyCrack.pdb
